@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<operators name="alexfechner" version="5.0" docbundle="com/rapidminer/resources/i18n/OperatorsDocTemplate">
+   <group key="">
+      <group key="modeling.clustering">
+         <operator>
+            <key>stdbcan</key>
+            <class>com.rapidminer.operator.clustering.clusterer.STDBScan</class>
+         </operator>
+      </group>
+   </group>
+</operators>

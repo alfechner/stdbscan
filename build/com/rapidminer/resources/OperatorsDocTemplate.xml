@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<operatorHelp lang="en_EN">
+ 	<operator>
+        <name>STDBSCAN</name>
+        <synopsis>Clustering with STDBSCAN</synopsis>
+        <help> help </help>
+    	<key>stdbcan</key>
+    	<shortName>Clustering</shortName>
+ 	</operator>
+</operatorHelp>
